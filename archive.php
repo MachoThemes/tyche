@@ -18,6 +18,7 @@ if ( '1' == $breadcrumbs_enabled ) { ?>
 		</div>
 	</div>
 <?php } ?>
+	<div class="test-pull"></div>
 	<div class="container">
 		<div class="row">
 			<div id="primary" class="content-area col-md-8">
